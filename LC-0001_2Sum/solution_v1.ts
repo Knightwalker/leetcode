@@ -1,4 +1,4 @@
-function twoSum_v1_ts(nums: number[], target: number): number[] {
+function twoSum(nums: number[], target: number): number[] {
     let res: number[] = [];
     let len = nums.length;
     for (let i = 0; i < len - 1; i++) {
@@ -15,4 +15,6 @@ function twoSum_v1_ts(nums: number[], target: number): number[] {
     return res;
 };
 
-console.log(twoSum_v1_ts([2,7,11,15], 9));
+console.log(twoSum([2,7,11,15], 9));
+
+export {};

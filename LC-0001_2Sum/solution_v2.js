@@ -1,4 +1,4 @@
-function twoSum_v2(nums, target) {
+function twoSum(nums, target) {
     let seen = {};
     let res = [];
 
@@ -17,4 +17,6 @@ function twoSum_v2(nums, target) {
     return res;
 };
 
-console.log(twoSum_v2([2,7,11,15], 9));
+console.log(twoSum([2,7,11,15], 9));
+
+export {};
