@@ -14,12 +14,14 @@ Each problem includes:
 
 Problems are organized by ID using the following format:
 
+```sh
 LC-0001_2Sum/
 ├── description.md
 ├── solution_v1.js
 ├── solution_v1.ts
 ├── solution_v2.js
 └── solution_v2.ts
+```
 
 Each problem may contain multiple solution versions:
 
