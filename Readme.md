@@ -69,5 +69,5 @@ Must be one of the following:
 - **feat**: New problem solution
 - **refactor**: Improved solution
 - **perf**: Better time/space complexity
-- **docs**: Documentation only changes (example scopes: .md files)
-- **fs**: File system changes, e.g. renaming files
+- **docs**: Documentation only changes (e.g. scopes: .md files)
+- **fs**: File system changes, (e.g. renaming files)
